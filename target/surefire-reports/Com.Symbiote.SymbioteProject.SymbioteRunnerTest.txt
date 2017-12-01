@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Com.Symbiote.SymbioteProject.SymbioteRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 12, Time elapsed: 0.483 sec
